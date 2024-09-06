@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+}
+#titulo h1{
+    text-align: center;
+}
+#container-form{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+input{
+    margin-right: 10px;
+}
+#container-lista{
+   
+   
+    text-align: center;
+    width: 800px;
+    
+  margin: auto;
+}
